@@ -1,4 +1,4 @@
-package com.denghui.doraemon.ui.Utils;
+package com.denghui.doraemon.ui.utils;
 
 import android.app.Activity;
 import android.content.ComponentCallbacks;
