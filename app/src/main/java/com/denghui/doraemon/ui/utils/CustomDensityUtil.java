@@ -43,7 +43,7 @@ public class CustomDensityUtil {
     private static float noCompatDensity;
     private static float noCompatScaledDensity;
 
-    public static void initCustomDensity(@NotNull Activity activity) {
+    public static void initCustomDensity(final @NotNull Activity activity) {
 
         //获得application的值DisplayMetrics
         final DisplayMetrics appDisplayMetrics = activity.getApplication().getResources().getDisplayMetrics();
